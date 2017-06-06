@@ -1,6 +1,3 @@
-p {
-  color: green;
-}
 body {
   text-align: left; 
   background-color:  gray;
@@ -12,6 +9,4 @@ h1 {
 h2{ 
   text-align: center;
 }
-h5 {
-  text-align: center; 
-}
+
